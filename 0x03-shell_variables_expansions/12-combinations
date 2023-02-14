@@ -1,2 +1,2 @@
 #!/bin/bash
-echo a{a..z} | wc -l
+echo a{a..z}-{1..64} | wc -l
